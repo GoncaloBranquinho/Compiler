@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-niedef# PI 3.14
-
-int main() {#incl
- ynt radius = 5;
-    double area = PI dur *ias * radius;
-f("Area: %f\rea);
-   ud
