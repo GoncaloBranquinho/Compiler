@@ -1,0 +1,3 @@
+/home/goncalo/Projects/compiler/build/CMakeFiles/compiler.dir
+/home/goncalo/Projects/compiler/build/CMakeFiles/edit_cache.dir
+/home/goncalo/Projects/compiler/build/CMakeFiles/rebuild_cache.dir
