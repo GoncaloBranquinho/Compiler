@@ -28,9 +28,8 @@ The source code in this repository is released under the **MIT License**, while 
 I'm a **computer enthusiast** and I love to tinker with low-level stuff and learn all about the internals of a computer, operating systems, or compilers. If you're interested in my other projects, you can find me here:
 
 - GitHub: [GoncaloBranquinho](https://github.com/GoncaloBranquinho)
-- Personal Website: [Goncalo's Website](link-to-your-website)
 
 ---
 
-> "Learn by doing, build by building."
+> "Goncalo Branquinho"
 
