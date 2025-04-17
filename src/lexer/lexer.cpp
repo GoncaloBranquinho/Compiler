@@ -3,7 +3,7 @@
 #include <cctype>
 #include <utility>
 #include <string>
-#include "lexer.h"
+#include "lexer/lexer.h"
 
 std::string toString(Token token) {
     switch (token) {
