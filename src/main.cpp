@@ -6,7 +6,7 @@
 #include <utility>
 
 int main(int argc, char* argv[]) {
-    std::vector<TokenInfo> tokens;
+
     if (argc != 2) {
         std::cout << "Error: You must pass the file name as an argument, and nothing else." << std::endl;
         std::cout << "Example: " << argv[0] << " <filename>" << std::endl;
@@ -19,6 +19,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    std::vector<TokenInfo> tokens;
     std::string line;
     int row = 0;
     while(std::getline(file,line)) {
