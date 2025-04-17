@@ -31,5 +31,5 @@ I'm a **computer enthusiast** and I love to tinker with low-level stuff and lear
 
 ---
 
-> "Goncalo Branquinho"
+> Goncalo Branquinho
 
