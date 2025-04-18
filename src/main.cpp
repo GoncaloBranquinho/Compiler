@@ -7,12 +7,12 @@
 
 int main(int argc, char* argv[]) {
 
-    if (argc != 2) {
-        std::cout << "Error: You must pass the file name as an argument, and nothing else." << std::endl;
+   if (argc != 2) {
+        std::cerr << "Error: You must pass the file name as an argument." << std::endl;
         std::cout << "Example: " << argv[0] << " <filename>" << std::endl;
         return 1;
     }
-    
+
     std::ifstream file(argv[1]);
     if (!file) {
         std::cerr << "Error: Unable to open the file!" << std::endl;

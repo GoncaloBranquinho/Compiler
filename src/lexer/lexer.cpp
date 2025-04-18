@@ -14,7 +14,7 @@ std::string toString(Token token) {
         case Token::DELIMITER: return "DELIMITER";
         case Token::PUNCTUATION: return "PUNCTUATION";
         case Token::ASSIGN: return "ASSIGN";
-        default: return "UNKNOWN";;
+        default: return "UNKNOWN";
     }
 }
 

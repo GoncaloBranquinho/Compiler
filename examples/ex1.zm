@@ -1,0 +1,8 @@
+operadores - [+, -, /, *, %, <, >, ^, ~, &]
+operações - sqrt(), sin(), cos(), log(), abs(), asin(), ...
+
+
+col = [1, 2, 3, 4];
+row = [1; 2; 3; 4];
+matrix = [1, 2; 3, 4];
+complexos = a + bi;
