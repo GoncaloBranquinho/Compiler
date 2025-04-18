@@ -64,8 +64,6 @@ This document details the functionalities implemented in the compiler/calculator
 
 ## General Features
 - Evaluates mathematical expressions with correct operator precedence
-- Supports global-scope variables
-- Evaluates complex expressions with nested functions
 
 ## Vectors and Matrices
 - Supports row and column vectors

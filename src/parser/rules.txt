@@ -1,0 +1,13 @@
+Program -> Statement*
+
+Statement -> Assignment
+           | ForLoop
+           | WhileLoop
+           | If 
+           | Block
+
+Assignment -> id '=' Expression ';'
+
+Block -> { Statement* }
+
+
