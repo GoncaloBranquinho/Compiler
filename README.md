@@ -1,4 +1,4 @@
-# Folar - Programming Language
+# Programming Language
 
 A programming language as sweet as a **folar** and as fast as **C/C++**
 
